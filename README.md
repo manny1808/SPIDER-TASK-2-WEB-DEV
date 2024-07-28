@@ -5,6 +5,10 @@ TO RUN BACKEND SERVER:
 * CLONE THE REPOSITORY USING : git clone https://github.com/manny1808/SPIDER-TASK-2-WEB-DEV.git
 * CD INTO THE REPOSITORY : cd SPIDER-TASK-2-WEB-DEV
 * RUN NODE : node index.js
+* INSTALL PACKAGES LISTED IN package.json
 
 TO RUN FRONTEND:
-* 
+* INSTALL VITE : npm install --save-dev vite
+* INSTALL DEPENDENCIES : npm install
+* RUN : npm run dev
+
